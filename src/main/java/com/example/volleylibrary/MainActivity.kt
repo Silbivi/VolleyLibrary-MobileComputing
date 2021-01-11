@@ -36,7 +36,7 @@ class MainActivity : AppCompatActivity() {
                    val firstname = employee.getString("firstname")
                    val age = employee.getInt("age")
                    val mail = employee.getString("mail")
-                   textView.append("$firstname, $age, $mail \n\n")
+                   textView.append(" Name : $firstname\n Age : $age\n Email : $mail \n\n")
                }
            } catch (e: JSONException) {
                e.printStackTrace()
