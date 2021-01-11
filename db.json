@@ -1,0 +1,28 @@
+{
+  "employees" : [
+  "firstname" : "Silvia Amanda",
+  "age" : 19,
+  "mail" : "silviavia216@gmail.com"
+  },
+  {
+  "firstname" : "Sekar Arum",
+  "age" : 21,
+  "mail" : "sekararum28@gmail.com"
+  },
+  {
+  "firstname" : "Dicki Maulana",
+  "age" : 19,
+  "mail" : "dickimaulana16@gmail.com"
+  },
+  {
+  "firstname" : "Lisa Manoban",
+  "age" : 22,
+  "mail" : "lalisa23@gmail.com"
+  },
+  {
+  "firstname" : "Iqbal Ramadhan",
+  "age" : 20,
+  "mail" : "iqbalramadhan10@gmail.com"
+  }
+ ]
+}
